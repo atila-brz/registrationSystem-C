@@ -15,6 +15,8 @@ Conceitos abordados: <br>
 - Vetores;
 - Struct;
 - Biblioteca string;
+- Experiência do usuário;
+- Tratamento de erros.
 
 
 
