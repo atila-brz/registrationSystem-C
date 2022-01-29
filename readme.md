@@ -1,4 +1,4 @@
-#Sistema de Cadastro
+<h1>Sistema de Cadastro</h1> <br>
 Sistema de cadastro, desenvolvido em C e sem banco de dados.
 
 ##
