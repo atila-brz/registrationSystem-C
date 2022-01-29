@@ -1,8 +1,5 @@
 <h1>Sistema de Cadastro</h1> <br>
-Sistema de cadastro, desenvolvido em C e sem banco de dados.
-
-##
-
+Sistema de cadastro, desenvolvido em C e sem banco de dados. <br>
 Projeto criado para desenvolvimento de lógica de programação com C.
 
 ##
