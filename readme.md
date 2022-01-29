@@ -3,7 +3,7 @@ Sistema de cadastro, desenvolvido em C e sem banco de dados.
 
 ##
 
-Projeto desenvolvido para exercitar lógica de programação com C. Foi utilizado todos conceitos básicos adquiridos ao decorrer do curso de Desenvolvimento de Sistema.
+Projeto criado para desenvolvimento de lógica de programação com C.
 
 ##
 
